@@ -1,0 +1,1 @@
+Today, I learned how to install and set up Dev C++ and PyCharm for programming. In Dev C++, I learned how to create, save, compile, and run C++ programs, which helped me understand the basics of coding in C++. In PyCharm, I learned how to create Python projects, write Python code, and execute programs.
